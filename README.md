@@ -47,9 +47,9 @@ Following steps were taken in data cleaning:
 
 After cleaning as much as possible in my opinion this was the my final data set of 1162 rows.
 
-Cleaned up data in a comma separate value is in the data_mining_refined.csv file.
+Cleaned up data in a comma separate value is in the **data_mining_refined.csv file**.
 
-##Hadoop
+##Hadoop Implementation
 
 ###Part A: 
 
